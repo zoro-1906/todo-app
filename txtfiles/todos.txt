@@ -1,7 +1,7 @@
-get to the bed
-go to gym
+bed timego to gym
 study
 task
-sleep
-task1
-task11
+do not sleeptask1
+task2trial
+mock trialok now
+checking
