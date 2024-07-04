@@ -1,7 +1,4 @@
 bed timego to gym
 study
-task
-do not sleeptask1
-task2trial
-mock trialok now
+trymock trialok now
 checking
